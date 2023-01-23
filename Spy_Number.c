@@ -15,4 +15,3 @@ int main()
     else
     printf("Not Spy Number");
 }
-
